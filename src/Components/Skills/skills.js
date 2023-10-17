@@ -54,7 +54,7 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      ;
+      
       {activeTab === "education" && (
         <div className="tab-contents active-tab">
           <ul>
@@ -68,7 +68,7 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      ;
+      
       {activeTab === "experience" && (
         <div className="tab-contents active-tab">
           <ul>
@@ -82,7 +82,7 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      ;
+      
     </section>
   );
 };
