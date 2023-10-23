@@ -46,17 +46,25 @@ font-weight: 300;
     border: none;
     border-radius: 0.5rem;
     margin: 2rem;
+    cursor: pointer;
 
 }
 .links{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+
 }
+
+
 .link{
     object-fit: cover;
     height: 3rem;
     width: 3rem;
     margin: 0 0.75rem;
+    cursor: pointer;
     
 }
 .msg{
