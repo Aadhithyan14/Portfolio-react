@@ -24,10 +24,11 @@ const Contact = () => {
 
   return (
 <section className='contactPage'>
+enecccbklknlbefkdvdeveuhlvgllruuddjbrluddfug
 
 <div id='contact'>
     <h1 className='contactPageTile'>Contact Me</h1>
-    <span className='contactDesc'>Plase fill out the form beloow to discuss any work opportunities </span>
+    <span className='contactDesc'>Please fill out the form beloow to discuss any work opportunities </span>
 
     <form className='conatForm' ref={form} onSubmit={sendEmail}>
 <input type='text' className='name' name='from_name' placeholder='Your Name'/>

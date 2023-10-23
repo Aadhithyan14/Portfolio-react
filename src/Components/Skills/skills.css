@@ -68,6 +68,17 @@ width: 50%;
     font-size: 2rem;
 }
 
-/* .tab-contents{
-    display: none;
-} */
+@media screen and (max-width: 720px) {
+    .tab-titles
+    {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    /* .tab-link.active-link::after{
+        display: flex;
+    } */
+    .tab-link.active-link::after{
+        width: 0;
+        }
+}

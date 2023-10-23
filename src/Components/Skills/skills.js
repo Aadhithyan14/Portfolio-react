@@ -10,37 +10,29 @@ const Skills = () => {
 
   return (
     <section id="skills">
-      <span className="skillTitle"> What I Do  </span>
+      <span className="skillTitle"> What I Do </span>
       <span className="skillDesc">
         I am askilled passionate Web Designer with experience in creating
         virtually appelaing and user-friendly websites. I have a strong
         understanding of design and an keen eye for detail. I am profecient in
         React,Javascript as well as Programming language such as Java and also
         has knowledge about SQL.
-      </span>     
-       <div className="tab-titles">
+      </span>
+      <div className="tab-titles">
         <p
           className={`tab-link ${activeTab === "skills" ? "active-link" : ""}`}
-          onClick={() => handleTabClick("skills")}
-        >
-          Skills
-        </p>
-        <p
-          className={`tab-link ${
+          onClick={() => handleTabClick("skills")}>Skills</p>
+
+        <p className={`tab-link ${
             activeTab === "education" ? "active-link" : ""
-          }`}
-          onClick={() => handleTabClick("education")}
-        >
-          Education
-        </p>
+          }`}onClick={() => handleTabClick("education")}>Education</p>
+
         <p
           className={`tab-link ${
             activeTab === "experience" ? "active-link" : ""
           }`}
-          onClick={() => handleTabClick("experience")}
-        >
-          Experience
-        </p>
+          onClick={() => handleTabClick("experience")}>Experience</p>
+          
       </div>
       {activeTab === "skills" && (
         <div className="tab-contents active-tab">
@@ -54,7 +46,7 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      
+
       {activeTab === "education" && (
         <div className="tab-contents active-tab">
           <ul>
@@ -68,7 +60,7 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      
+
       {activeTab === "experience" && (
         <div className="tab-contents active-tab">
           <ul>
@@ -82,7 +74,6 @@ const Skills = () => {
           </ul>
         </div>
       )}
-      
     </section>
   );
 };
