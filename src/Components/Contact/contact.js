@@ -56,7 +56,6 @@ const Contact = () => {
 </section>
 
 
-)
-}
+)}
 
 export default Contact;
