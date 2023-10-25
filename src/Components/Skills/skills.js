@@ -41,7 +41,7 @@ const Skills = () => {
               <span>UI/UX</span> <br /> Desigining Web Interface
             </li>
             <li>
-              <span>Web Development</span> <br /> Web App Developme
+              <span>Web Development</span> <br /> Web App Development
             </li>
           </ul>
         </div>
