@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7f9ca77b.css",
-    "main.js": "/portfolio/static/js/main.24199fe4.js",
-    "static/media/profile.jpeg": "/portfolio/static/media/profile.956a156db1789fc0c82f.jpeg",
-    "static/media/youtube.png": "/portfolio/static/media/youtube.63a7d33febd39a3205a9.png",
-    "static/media/mail.png": "/portfolio/static/media/mail.d23b9c1a00a01bc9b902.png",
-    "static/media/Menu.png": "/portfolio/static/media/Menu.a36d174c31f74c5c4bfb.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.75e0546a6b5abe4c0506.png",
-    "static/media/suitcase.png": "/portfolio/static/media/suitcase.e14b0bb3d0624bcc8e9b.png",
-    "static/media/twitter.png": "/portfolio/static/media/twitter.894988327f8d68209e91.png",
-    "static/media/686165.png": "/portfolio/static/media/686165.b9bf1250b725a42d2e89.png",
-    "index.html": "/portfolio/index.html",
-    "main.7f9ca77b.css.map": "/portfolio/static/css/main.7f9ca77b.css.map",
-    "main.24199fe4.js.map": "/portfolio/static/js/main.24199fe4.js.map"
+    "main.css": "/Portfolio-react/static/css/main.7f9ca77b.css",
+    "main.js": "/Portfolio-react/static/js/main.5c852419.js",
+    "static/media/profile.jpeg": "/Portfolio-react/static/media/profile.956a156db1789fc0c82f.jpeg",
+    "static/media/youtube.png": "/Portfolio-react/static/media/youtube.63a7d33febd39a3205a9.png",
+    "static/media/mail.png": "/Portfolio-react/static/media/mail.d23b9c1a00a01bc9b902.png",
+    "static/media/Menu.png": "/Portfolio-react/static/media/Menu.a36d174c31f74c5c4bfb.png",
+    "static/media/instagram.png": "/Portfolio-react/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/suitcase.png": "/Portfolio-react/static/media/suitcase.e14b0bb3d0624bcc8e9b.png",
+    "static/media/twitter.png": "/Portfolio-react/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/686165.png": "/Portfolio-react/static/media/686165.b9bf1250b725a42d2e89.png",
+    "index.html": "/Portfolio-react/index.html",
+    "main.7f9ca77b.css.map": "/Portfolio-react/static/css/main.7f9ca77b.css.map",
+    "main.5c852419.js.map": "/Portfolio-react/static/js/main.5c852419.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9ca77b.css",
-    "static/js/main.24199fe4.js"
+    "static/js/main.5c852419.js"
   ]
 }
