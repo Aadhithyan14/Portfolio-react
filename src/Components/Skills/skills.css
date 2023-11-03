@@ -81,24 +81,5 @@ width: 50%;
     .tab-link.active-link::after{
         width: 0;
         }
-/* 
-    .tab-contents{
-        display: none;
-    }
-.tab-contents.active-tab
-{
-    display: block;
-} */
-
-.tab-contents {
-    display: none;
-  }
-  
-  @media screen and (max-width: 720px) {
-    /* Styles for mobile screens */
-    .tab-contents.active-tab {
-      display: block;
-    }
-  }
 
 }
