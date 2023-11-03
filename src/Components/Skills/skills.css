@@ -68,7 +68,7 @@ width: 50%;
     font-size: 2rem;
 }
 
-@media screen and (max-width: 720px) {
+/* @media screen and (max-width: 720px) {
     .tab-titles
     {
         display: flex;
@@ -78,8 +78,7 @@ width: 50%;
     /* .tab-link.active-link::after{
         display: flex;
     } */
-    .tab-link.active-link::after{
+    /* .tab-link.active-link::after{
         width: 0;
-        }
+        } */
 
-}
